@@ -1,7 +1,8 @@
----
+Android---
 manufacturer: 
     - xiaomi
 
+infinix
 ---
 
 ### App pinning / App locking
